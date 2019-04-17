@@ -12,9 +12,11 @@ Enable you to add new events and tasks
 * List your completed projects.
 
 CLIPPY SAYS: I'm back and I'm better than ever.
+~~~~~~~~~~~~~~~
  __  
 |  |
 || ||
 |\_||
 | ..|  
  \__/
+~~~~~~~~~~~~~~~
